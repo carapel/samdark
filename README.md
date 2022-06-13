@@ -2,10 +2,10 @@
 
 ### Hi there 👋
 
-I am experienced engineer nowadays working mostly on OpenSource.
+I am currently developing Discord projects.
 
-- ⚡ I’m currently leading [Yii framework](https://www.yiiframework.com/) and organizing [PHP Russia conference](https://phprussia.ru/).
-- 📖 I wrote some posts [in English](https://en.rmcreative.ru/) and [way more in Russian](https://rmcreative.ru/).
-- 🎤 I have [a list with slides and videos from my conference talks](https://slides.rmcreative.ru/).
-- 🎨 I maintain [Visual Studio Code inspired theme for JetBrains IDEs](https://github.com/samdark/intellij-visual-studio-code-dark-plus).
+- ⚡ I write in languages such as Python, JS, NodeJS, PHP.
+- 📖 The developer of the HampusBot project. 170+ servers and 160.000+ participants.
+- 🎤 Deputy developer of the MaryBot project. 900+ servers and 160,000+ participants.
+- 🎨 Developing Photoshop skills. I carry out orders, pleasant works are obtained. There are no negative reviews.
 - ✉ You can reach me via email.
